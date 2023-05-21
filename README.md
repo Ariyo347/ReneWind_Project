@@ -25,4 +25,10 @@ I chose Recall as my scorer for model evaluation as it is the best to optimize f
 The best models are:
 * **XGBoost with undersampled data:** With a Recall of 0.87. I had very good accuracy but other models had better F1 score and Precision score
 * **Tuned Random Forest with undersampled data:** It had comparable Recall but slightly better accuracy and F1 score than **XGBoost with undersampled data**
-* **Gradient Boost with oversampled data:** Similarly, It had comparable Recall score and in addition better sligthly better accuracy and F1 score than **XGBoost with undersampled data** and `Tuned Random Forest with undersampled data`. This is the model I selected
+* **Gradient Boost with oversampled data:** Similarly, It had comparable Recall score and in addition better sligthly better accuracy and F1 score than `XGBoost with undersampled data` and `Tuned Random Forest with undersampled data`. This is the model I selected
+
+## Model Performance
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
