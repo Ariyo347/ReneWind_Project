@@ -9,4 +9,4 @@
 2 datasets (test and train data) were given. The datasets were ciphered and quite clean but they had missing data. The missing data were treated using KNN Imputer
 ## EDA
 Upon observing the features of the train dataset, I observed that they were almost all normally distributed
-![Normal univariate distribution](EDA normal dist univariate.PNG)
+![EDA normal dist univariate.PNG](EDA normal dist univariate.PNG)
