@@ -10,16 +10,11 @@
 ## EDA
 I looked at the distributon and pairplots of the features of the train dataset, I observed that they were almost all normally distributed
 
-![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA_normal_dist_univariate_edited.jpg)
+![EDA_normal_dist_univariate_edited](https://github.com/Ariyo347/ReneWind_Project/assets/113588909/bc7cf75d-0bba-4438-a676-00adde7211f1)
+
 
 The paiplot added more insight to the failure pattern
 
-![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/Pairplot.JPG)
+![Pairplot](https://github.com/Ariyo347/ReneWind_Project/assets/113588909/79f74314-da86-4149-be73-aa6f5f8eb1df)
+
 ## Model Building
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
