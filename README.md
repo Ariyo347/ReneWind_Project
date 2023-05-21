@@ -20,5 +20,9 @@ The paiplot added more insight to the failure pattern
 ## Model Building
 I split the data into train, validation and test data after in 64-16-20 split respectively. I then imputed the missing data. Outliers were left untreated due to the features being ciphered.
 
-I chose Recall as my scorer for model evaluation as it is the best do optimize failure rate. I then proceeded to to build different models for evalation. I trained the different models on stock train data, undersampled data and oversampled data, and tuned then using GridSearchCV and Hyperparameter tuning. 
+I chose Recall as my scorer for model evaluation as it is the best to optimize failure rate. I then proceeded to to build different models for evalation. I trained the different models on stock train data, undersampled data and oversampled data, and tuned then using GridSearchCV and Hyperparameter tuning. 
 
+The best models are:
+* **XGBoost with undersampled data:** With a Recall of 0.87. I had very good accuracy but other models had better F1 score and Precision score
+* **Tuned Random Forest with undersampled data:** It had comparable Recall but slightly better accuracy and F1 score than **XGBoost with undersampled data**
+* **Gradient Boost with oversampled data:** Similarly, It had comparable Recall score and in addition better sligthly better accuracy and F1 score than **XGBoost with undersampled data** and **Tuned Random Forest with undersampled data**. This is the model I selected
