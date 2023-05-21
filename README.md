@@ -16,3 +16,10 @@ The paiplot added more insight to the failure pattern
 
 ![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/Pairplot.JPG)
 ## Model Building
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
