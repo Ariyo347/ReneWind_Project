@@ -8,6 +8,9 @@
 ## Data Cleaning
 2 datasets (test and train data) were given. The datasets were ciphered and quite clean but they had missing data. The missing data were treated using KNN Imputer
 ## EDA
-Upon observing the features of the train dataset, I observed that they were almost all normally distributed
+I looked at the distributon and pairplots of the features of the train dataset, I observed that they were almost all normally distributed
 
+![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA_normal_dist_univariate_edited.jpg)
+
+The paiplot added more insight to the failure pattern
 ![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA_normal_dist_univariate_edited.jpg)
