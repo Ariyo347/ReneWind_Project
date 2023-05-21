@@ -28,7 +28,8 @@ The best models are:
 * **Gradient Boost with oversampled data:** Similarly, It had comparable Recall score and in addition better sligthly better accuracy and F1 score than `XGBoost with undersampled data` and `Tuned Random Forest with undersampled data`. This is the model I selected
 
 ## Model Performance
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| **Model** | Recall | F1 | Accuracy | Precision |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| **Gradient Boost with oversampled data** | 0.86 |0.73 |0.96 |0.63 |
+| **Tuned Random Forest with undersampled data** | 0.87 | 0.65 | 0.95 | 0.52 |
+| **XGBoost with undersampled data** | 0.87 | 0.63 | 0.94 | 0.49 |
