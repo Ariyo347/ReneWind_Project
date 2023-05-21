@@ -18,3 +18,7 @@ The paiplot added more insight to the failure pattern
 ![Pairplot](https://github.com/Ariyo347/ReneWind_Project/assets/113588909/79f74314-da86-4149-be73-aa6f5f8eb1df)
 
 ## Model Building
+I split the data into train, validation and test data after in 64-16-20 split respectively. I then imputed the missing data. Outliers were left untreated due to the features being ciphered.
+
+I chose Recall as my scorer for model evaluation as it is the best do optimize failure rate. I then proceeded to to build different models for evalation. I trained the different models on stock train data, undersampled data and oversampled data, and tuned then using GridSearchCV and Hyperparameter tuning. 
+
