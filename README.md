@@ -10,4 +10,4 @@
 ## EDA
 Upon observing the features of the train dataset, I observed that they were almost all normally distributed
 
-![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA normal dist univariate_edited.jpg)
+![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA_normal_dist_univariate_edited.jpg)
