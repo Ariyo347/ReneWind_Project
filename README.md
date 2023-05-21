@@ -13,4 +13,4 @@ I looked at the distributon and pairplots of the features of the train dataset, 
 ![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA_normal_dist_univariate_edited.jpg)
 
 The paiplot added more insight to the failure pattern
-![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/EDA_normal_dist_univariate_edited.jpg)
+![alt text](https://github.com/Ariyo347/ReneWind_Project/blob/main/Pairplot.JPG)
